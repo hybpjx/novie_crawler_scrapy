@@ -1,2 +1,7 @@
-# novie_crawler_scrapy
-基于scrapy 爬取的小说网站 
+# 起点小说爬取
+url="https://www.qidian.com/all/" \
+可以适当修改
+
+# 字体加密 
+主要 难点为 字体TTF加密 需要 下载相应的包 然后做解析 
+对应的月票也是同理
